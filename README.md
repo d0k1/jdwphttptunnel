@@ -1,4 +1,4 @@
-#Java(tm) Debug Wire Protocol HTTP Tunnel
+# Java(tm) Debug Wire Protocol HTTP Tunnel
 
 This project makes possible to debug a java web applications via http protocol.
 Spring-boot devtools has same functionality, but sometimes it's not an option to make legacy app spring-boot based.
